@@ -4,8 +4,8 @@
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 #
 # Name          : Antony
-# Collaborators : <your collaborators>
-# Time spent    : <total time>
+# Collaborators : ---
+# Time spent    : 15 hours
 
 import math
 from os import fspath
